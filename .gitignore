@@ -16,4 +16,5 @@
 *.sdf
 *.opensdf
 *.user
+ino.ini
 .build
