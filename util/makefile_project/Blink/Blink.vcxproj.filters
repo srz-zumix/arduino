@@ -19,5 +19,6 @@
     <None Include="src\sketch.ino">
       <Filter>ソース ファイル</Filter>
     </None>
+    <None Include="make.bat" />
   </ItemGroup>
 </Project>

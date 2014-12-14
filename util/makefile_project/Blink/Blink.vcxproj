@@ -50,6 +50,7 @@
   <ItemDefinitionGroup>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <None Include="make.bat" />
     <None Include="Makefile" />
     <None Include="src\sketch.ino" />
   </ItemGroup>
