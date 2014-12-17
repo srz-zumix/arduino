@@ -12,7 +12,7 @@
 #define _VSARDUINO_H_
 #define __AVR_ATmega328p__
 #define __AVR_ATmega328P__
-#define ARDUINO 105
+#define ARDUINO 106
 #define ARDUINO_MAIN
 #define __AVR__
 #define __avr__
@@ -44,6 +44,6 @@ extern "C" void __cxa_pure_virtual() {;}
 
 #include "C:\Program Files (x86)\Arduino\hardware\arduino\cores\arduino\arduino.h"
 #include "C:\Program Files (x86)\Arduino\hardware\arduino\variants\standard\pins_arduino.h" 
-#include "Y:\usr\local\shirayanagi\github\arduino\sample\HttpClient\HttpClient.ino"
-#include "Y:\usr\local\shirayanagi\github\arduino\sample\HttpClient\_BoardInfo.h"
+#include "D:\usr\local\github\arduino\sample\HttpClient\HttpClient.ino"
+#include "D:\usr\local\github\arduino\sample\HttpClient\_BoardInfo.h"
 #endif
